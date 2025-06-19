@@ -1,3 +1,3 @@
-str_input = input()
-
-print(str_input.swapcase())
+x = input()   
+y = x.swapcase()
+print(y)
